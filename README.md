@@ -25,7 +25,3 @@ O **Sistema PDV** é uma solução robusta e eficiente para gerenciamento de ven
 - **Front-End:** HTML5, CSS3
 - **Banco de Dados:** MySQL
 - **Segurança:** Spring Security, JWT
-- **Outras Integrações:** API REST, Swagger para documentação
-
-## Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
